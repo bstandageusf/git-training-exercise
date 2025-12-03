@@ -2,7 +2,7 @@
 
 Contributors: Dobias
 
-Last team to contribute: [Team name]
+Last team to contribute: Dobias
 
 Problems:
 1. 2 + 2 = 4
