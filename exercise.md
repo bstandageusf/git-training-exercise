@@ -1,11 +1,11 @@
 # IAE Git Training Exercise
 
-Contributors: Brian S
+Contributors: [Previous contributors]
 
-Last team to contribute: team-brian
+Last team to contribute: [Team name]
 
 Problems:
-1. 2 + 2 = 4
+1. 2 + 2 = 
 2. 4 * 5 = 
 3. What does IAE stand for? 
 4. What is Git?
@@ -29,4 +29,3 @@ Instructions:
 - Update Last team to contribute with your team name.
 - Do not erase previous contributions.
 - Commit your changes, merge main into your branch, resolve any conflicts, push, and open a PR.
-
