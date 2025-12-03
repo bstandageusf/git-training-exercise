@@ -1,11 +1,11 @@
 # IAE Git Training Exercise
 
-Contributors: [Cristian Dutescu]
+Contributors: Dobias, Cristian Dutescu
 
-Last team to contribute: [Dutescu]
+Last team to contribute: [Dutescu, Dobias]
 
 Problems:
-1. 2 + 2 = 
+1. 2 + 2 = 4
 2. 4 * 5 = 
 3. What does IAE stand for? 
 4. What is Git?
