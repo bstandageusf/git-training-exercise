@@ -1,15 +1,15 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias
+Contributors: Dobias, Cristian Dutescu
 
-Last team to contribute: Dobias
+Last team to contribute: [Dutescu, Dobias]
 
 Problems:
 1. 2 + 2 = 4
 2. 4 * 5 = 
 3. What does IAE stand for? 
 4. What is Git?
-5. 7 - 5 = 
+5. 7 - 5 = 2
 6. What is a pull request?
 7. What does "commit" mean in Git?
 8. What is a branch?
