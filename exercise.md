@@ -8,6 +8,15 @@ Problems:
 1. 2 + 2 = 
 2. 4 * 5 = 
 3. What does IAE stand for? 
+ __________________________________
+< institute of applied engineering >
+ ----------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+                
 4. What is Git?
 5. 7 - 5 = 
 6. What is a pull request?
