@@ -1,12 +1,12 @@
 # IAE Git Training Exercise
 
-Contributors: Brian S, Bstan
+Contributors: [Previous contributors]
 
-Last team to contribute: team-brian, team-bstan
+Last team to contribute: [Team name]
 
 Problems:
-1. 2 + 2 = 4
-2. 4 * 5 = 20
+1. 2 + 2 = 
+2. 4 * 5 = 
 3. What does IAE stand for? 
 4. What is Git?
 5. 7 - 5 = 
