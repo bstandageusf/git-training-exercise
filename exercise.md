@@ -11,6 +11,7 @@ Problems:
 4. What is Git?
 5. 7 - 5 = 2
 6. What is a pull request?
+merge code changes
 7. What does "commit" mean in Git?
 8. What is a branch?
 9. What is the difference between Git and GitHub?
