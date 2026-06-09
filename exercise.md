@@ -1,6 +1,6 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu, Brian Standage, Ingrid Hsu
+Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu
 
 Last team to contribute: [Dutescu, Dobias, Standage, Ingrid]
 
@@ -8,7 +8,7 @@ Problems:
 1. 2 + 2 = 4
 2. 4 * 5 = 20 
 3. What does IAE stand for? Institue of Applied Engineering
-4. What is Git?
+4. What is Git? A distributed version control system
 5. 7 - 5 = 2
 6. What is a pull request?
 7. What does "commit" mean in Git?
