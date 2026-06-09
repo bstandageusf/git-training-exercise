@@ -1,8 +1,8 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu
+Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu, Hiram
 
-Last team to contribute: [Dutescu, Dobias, Standage, Ingrid]
+Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Hiram]
 
 Problems:
 1. 2 + 2 = 4
