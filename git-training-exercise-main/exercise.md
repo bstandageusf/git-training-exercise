@@ -8,7 +8,7 @@ Problems:
 1. 2 + 2 = 4
 2. 4 * 5 = 
 3. What does IAE stand for? 
-4. What is Git? -- Depends on how you're feeling, can be good can be bad. 
+4. What is Git? -- Depends on how you're feeling, can be good can be bad, but mainly good. 
 5. 7 - 5 = 2
 6. What is a pull request?
 7. What does "commit" mean in Git?
