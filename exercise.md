@@ -11,6 +11,7 @@ Problems:
 4. What is Git? A distributed version control system
 5. 7 - 5 = 2
 6. What is a pull request?
+merge code changes
 7. What does "commit" mean in Git?
 8. What is a branch? - A protected, parallel working copy of the code to make changes to
 9. What is the difference between Git and GitHub?
