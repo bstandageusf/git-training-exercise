@@ -1,25 +1,24 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu, Anya Stewart, Hiram
+Contributors: Dobias, Cristian Dutescu, Jose 
 
-Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Anya, Hiram]
+Last team to contribute: [Dutescu, Dobias, Jose ]
 
 Problems:
 1. 2 + 2 = 4
-2. 4 * 5 = 20 
-3. What does IAE stand for? Institue of Applied Engineering
-4. What is Git? A distributed version control system
+2. 4 * 5 = 
+3. What does IAE stand for? 
+4. What is Git? -- It Depends on how you're feeling, can be good can be bad, but mainly good. Again pt 2
 5. 7 - 5 = 2
 6. What is a pull request?
-merge code changes
 7. What does "commit" mean in Git?
-8. What is a branch? - A protected, parallel working copy of the code to make changes to
+8. What is a branch?
 9. What is the difference between Git and GitHub?
 10. Name one advantage of version control.
 11. What does "merge conflict" mean?
 12. Give an example of a file type that Git handles poorly.
 13. Give an example of a file type that Git handles well.
-14. What is a "staging area"? A staging area is the first stage of saving changes to a git repo. It allows the user to save their work locally without adding confirmed commit changes. 
+14. What is a "staging area"?
 15. What is "rebasing" used for?
 16. How do you create a new branch from the CLI?
 17. How do you push your branch to the remote repository?
