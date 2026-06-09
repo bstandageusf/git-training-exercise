@@ -7,7 +7,7 @@ Last team to contribute: [Dutescu, Dobias, Standage]
 Problems:
 1. 2 + 2 = 4
 2. 4 * 5 = 20 
-3. What does IAE stand for? 
+3. What does IAE stand for? Institue of Applied Engineering
 4. What is Git?
 5. 7 - 5 = 2
 6. What is a pull request?
