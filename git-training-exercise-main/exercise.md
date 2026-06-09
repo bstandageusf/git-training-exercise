@@ -1,22 +1,21 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu, Hiram
+Contributors: Dobias, Cristian Dutescu, Jose 
 
-Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Hiram]
+Last team to contribute: [Dutescu, Dobias, Jose ]
 
 Problems:
 1. 2 + 2 = 4
-2. 4 * 5 = 20 
-3. What does IAE stand for? Institue of Applied Engineering
-4. What is Git? A distributed version control system
+2. 4 * 5 = 
+3. What does IAE stand for? 
+4. What is Git? -- It Depends on how you're feeling, can be good can be bad, but mainly good. Again pt 2
 5. 7 - 5 = 2
 6. What is a pull request?
-merge code changes
 7. What does "commit" mean in Git?
-8. What is a branch? - A protected, parallel working copy of the code to make changes to
+8. What is a branch?
 9. What is the difference between Git and GitHub?
 10. Name one advantage of version control.
-11. What does "merge conflict" mean? - Conflicting changes are made to the same type of file
+11. What does "merge conflict" mean?
 12. Give an example of a file type that Git handles poorly.
 13. Give an example of a file type that Git handles well.
 14. What is a "staging area"?
