@@ -12,7 +12,7 @@ Problems:
 5. 7 - 5 = 2
 6. What is a pull request?
 7. What does "commit" mean in Git?
-8. What is a branch?
+8. What is a branch? - A protected, parallel working copy of the code to make changes to
 9. What is the difference between Git and GitHub?
 10. Name one advantage of version control.
 11. What does "merge conflict" mean?
