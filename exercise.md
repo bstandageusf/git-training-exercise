@@ -2,7 +2,7 @@
 
 Contributors: Dobias, Cristian Dutescu
 
-Last team to contribute: [Dutescu, Dobias], [Hiram]
+Last team to contribute: [Dutescu, Dobia, Hiram]
 
 Problems:
 1. 2 + 2 = 4
