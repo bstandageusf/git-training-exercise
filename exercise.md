@@ -1,8 +1,8 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu, Brian Standage, Ingrid Hsu, Caleb
+Contributors: Dobias, Cristian Dutescu, Brian Standage, Ingrid Hsu, Anya Stewart, Caleb
 
-Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Caleb]
+Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Anya, Caleb]
 
 Problems:
 1. 2 + 2 = 4
@@ -18,7 +18,7 @@ Problems:
 11. What does "merge conflict" mean?
 12. Give an example of a file type that Git handles poorly.
 13. Give an example of a file type that Git handles well.
-14. What is a "staging area"?
+14. What is a "staging area"? A staging area is the first stage of saving changes to a git repo. It allows the user to save their work locally without adding confirmed commit changes. 
 15. What is "rebasing" used for?
 16. How do you create a new branch from the CLI?
 17. How do you push your branch to the remote repository?
