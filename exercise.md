@@ -15,7 +15,7 @@ Problems:
 8. What is a branch? - A protected, parallel working copy of the code to make changes to
 9. What is the difference between Git and GitHub?
 10. Name one advantage of version control.
-11. What does "merge conflict" mean?
+11. What does "merge conflict" mean? - Conflicting changes are made to the same type of file
 12. Give an example of a file type that Git handles poorly.
 13. Give an example of a file type that Git handles well.
 14. What is a "staging area"?
