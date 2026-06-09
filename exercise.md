@@ -2,11 +2,11 @@
 
 Contributors: Dobias, Cristian Dutescu
 
-Last team to contribute: [Dutescu, Dobias]
+Last team to contribute: [Dutescu, Dobias], [Hiram]
 
 Problems:
 1. 2 + 2 = 4
-2. 4 * 5 = 
+2. 4 * 5 = 20
 3. What does IAE stand for? 
 4. What is Git?
 5. 7 - 5 = 2
