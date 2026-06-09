@@ -1,18 +1,18 @@
 # IAE Git Training Exercise
 
-Contributors: Dobias, Cristian Dutescu
+Contributors: Dobias, Cristian Dutescu, Zara Maraj, Brian Standage, Ingrid Hsu, Hiram
 
-Last team to contribute: [Dutescu, Dobia, Hiram]
+Last team to contribute: [Dutescu, Dobias, Standage, Ingrid, Hiram]
 
 Problems:
 1. 2 + 2 = 4
-2. 4 * 5 = 20
-3. What does IAE stand for? 
-4. What is Git?
+2. 4 * 5 = 20 
+3. What does IAE stand for? Institue of Applied Engineering
+4. What is Git? A distributed version control system
 5. 7 - 5 = 2
 6. What is a pull request?
 7. What does "commit" mean in Git?
-8. What is a branch?
+8. What is a branch? - A protected, parallel working copy of the code to make changes to
 9. What is the difference between Git and GitHub?
 10. Name one advantage of version control.
 11. What does "merge conflict" mean?
